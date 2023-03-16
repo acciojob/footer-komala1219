@@ -40,3 +40,9 @@ ul a{
 .logo_name{
 	float:left;	
 }
+
+.bottom-details
+{
+	display:flex;
+	justify-content:space-between;
+}
