@@ -1,10 +1,12 @@
 /* your code here */
 
 .link-boxes{
-	dispaly:flex;
+	display:flex;
 	flex-direction:row;
 }
-
+h3{
+	text-align:center;
+}
 ul a{
 	text-decoration:none;
 	
